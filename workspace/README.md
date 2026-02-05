@@ -6,8 +6,11 @@ A Next.js App Router project for a clothing store with a landing page, login scr
 
 - /: Landing page
 - /login: Login screen (UI only)
+- /shop: Customer storefront
+- /product/[id]: Product details
 - /dashboard: Product list dashboard
 - /dashboard/upload: Product upload form
+- /dashboard/notifications: Admin notifications
 - /dashboard/settings: Studio settings
 
 ## Development

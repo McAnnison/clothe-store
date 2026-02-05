@@ -6,6 +6,7 @@ import { Separator } from "@/components/ui/separator";
 const navItems = [
   { label: "Overview", href: "/dashboard" },
   { label: "Upload", href: "/dashboard/upload" },
+  { label: "Notifications", href: "/dashboard/notifications" },
   { label: "Settings", href: "/dashboard/settings" },
 ];
 
